@@ -1,12 +1,13 @@
-package fr.datafuture.testplus.api;
+package com.univers.architecture.tuto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestPlusApiApplication {
+public class CucumberTutoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestPlusApiApplication.class, args);
+		SpringApplication.run(CucumberTutoApplication.class, args);
 	}
+
 }
