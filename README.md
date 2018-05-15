@@ -1,4 +1,4 @@
-# Project Title
+# Titre du projet
 
 Tutoriel : Intégration de cucumber avec Spring Boot
 
@@ -18,7 +18,7 @@ Pour concrétiser tout ce qui a été cité dans l’article précédent . Nous 
 * Java : Java 1.8+ (ou plus).
 
 
-## Running the tests
+## Exécution des tests
 
 Pour exécuter et visualiser le résultat des tests, Il y a deux méthode à suivre. Soit:
 * En exécutant la commande "mvn clean test" dans le terminal au niveau du dossier parent.
